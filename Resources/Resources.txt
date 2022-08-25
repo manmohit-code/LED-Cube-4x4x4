@@ -1,0 +1,6 @@
+1. Arduino NANO (Any Arduino You Can Use)
+2. LED 64pcs for 4x4x4 cube
+3. 100Ω Resistor x4
+4. 2n2222 General Purpose NPN Transistor
+5. PCB Board
+6. Some Wires 
